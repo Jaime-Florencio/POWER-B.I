@@ -18,7 +18,7 @@ Aqui estão minhas anotações, exemplos práticos e datasets usados nas aulas.
 - [Aula 3.2 — O que fazer após importar](modulo03-ImportandoDados/Aula_3_2-OqueFazerAposImportarDados.md)
 
 ### Módulo 4 — Formatação de Consulta
-- [Aula 4.1 — O que fazer após importar](modulo04-FormatacaoConsulta/Aula_4_1-FormatacaoTexto.md).
+- [Aula 4.1 — Formatação de Texto](modulo04-FormatacaoConsulta/Aula_4_1-FormatacaoTexto.md).
 (...seguir listando os demais módulos até o 14)
 
 ---
