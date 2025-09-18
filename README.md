@@ -19,6 +19,8 @@ Aqui estão minhas anotações, exemplos práticos e datasets usados nas aulas.
 
 ### Módulo 4 — Formatação de Consulta
 - [Aula 4.1 — Formatação de Texto](modulo04-FormatacaoConsulta/Aula_4_1-FormatacaoTexto.md).
+- [Aula 4.2 — Formatação de Números](Aula_4_2-FormatacaoNumeros.md).
+
 (...seguir listando os demais módulos até o 14)
 
 ---
