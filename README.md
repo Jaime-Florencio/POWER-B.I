@@ -16,9 +16,9 @@ Aqui estão minhas anotações, exemplos práticos e datasets usados nas aulas.
 ### Módulo 3 — Importando Dados
 - [Aula 3.1 — Como importar informações](modulo03-ImportandoDados/Aula_3_1-ComoImportar.md)
 - [Aula 3.2 — O que fazer após importar](modulo03-ImportandoDados/Aula_3_2-OqueFazerAposImportar.md)
-- [Aula 3.3 — Salvar e editar consultas](modulo03-ImportandoDados/Aula_3_3-SalvarEditarConsultas.md)
-- [Aula 3.4 — Exercício de revisão](modulo03-ImportandoDados/Aula_3_4-ExercicioRevisao.md)
 
+### Módulo 4 — Formatação de Consulta
+- [Aula 4.1 — O que fazer após importar](modulo04-FormatacaoConsulta/Aula_4_1-FormatacaoTexto.md)
 (...seguir listando os demais módulos até o 14)
 
 ---
