@@ -24,6 +24,7 @@ Aqui estão minhas anotações, exemplos práticos e datasets usados nas aulas.
 ---
 
 ## 📂 Datasets
+- [Documentos utilizados como dados](datasets)
 Planilhas e arquivos usados nos exercícios ficarão aqui.
 
 ---
