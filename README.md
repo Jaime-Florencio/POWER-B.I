@@ -23,7 +23,7 @@ Aqui estão minhas anotações, exemplos práticos e datasets usados nas aulas.
 - [Aula 4.3 — Formatação de Datas](Aula_4_3-FormatacaoDatas.md).
 - [Aula 4.4 — Formatação de Números](modulo04-FormatacaoConsulta/Aula_4_4-ColunasCondicionais.md).
 
-### Exercíos do Curso
+## 📜 Exercíos do Curso
 - [Ex.MOD 4 — Formatação de Consulta](modulo04-FormatacaoConsulta/exercicio/Aula_4_5-ExercicioRevisaoFormatacoes.md).
 
 (...seguir listando os demais módulos até o 14].
