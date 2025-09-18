@@ -29,5 +29,3 @@ Nesta aula foram apresentadas as principais **ferramentas de importação de dad
   3. Selecionar **“Deletar modelo”**.
 
 ---
-
-📂 **Próxima aula (3.2):** será feita a importação com transformação de dados, usando o **Power Query**.
