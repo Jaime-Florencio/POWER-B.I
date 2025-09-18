@@ -20,8 +20,13 @@ Aqui estão minhas anotações, exemplos práticos e datasets usados nas aulas.
 ### Módulo 4 — Formatação de Consulta
 - [Aula 4.1 — Formatação de Texto](modulo04-FormatacaoConsulta/Aula_4_1-FormatacaoTexto.md).
 - [Aula 4.2 — Formatação de Números](modulo04-FormatacaoConsulta/Aula_4_2-FormatacaoNumeros.md).
+- [Aula 4.3 — Formatação de Datas](Aula_4_3-FormatacaoDatas.md).
+- [Aula 4.4 — Formatação de Números](modulo04-FormatacaoConsulta/Aula_4_4-ColunasCondicionais.md).
 
-(...seguir listando os demais módulos até o 14)
+### Exercíos do Curso
+- [Ex.MOD 4 — Formatação de Consulta](modulo04-FormatacaoConsulta/exercicio/Aula_4_5-ExercicioRevisaoFormatacoes.md).
+
+(...seguir listando os demais módulos até o 14].
 
 ---
 
